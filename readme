@@ -1,0 +1,54 @@
+
+/_chatbox_/
+.modal-content:hover .fa-phone{
+color: var(--primary-color) !important;
+}
+.modal-content:hover .fa-video{
+color: var(--primary-color) !important;
+}
+.modal-content:hover .fa-minus{
+color: var(--primary-color) !important;
+}
+/_ facebook icons _/
+/_ friend icon _/
+https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/i0pziEs5Wj6.png
+/_ group _/
+https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/MhkwI3R0SHP.png
+/_ video _/
+https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/XNFKm5WC2yS.png
+/_ event _/
+https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/qfMB40PdgWb.png
+/_ markplace _/
+https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png
+/_ feed _/
+https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-6zDH4i8Hrw.png
+
+/_ gift _/
+https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/jGIHAYEO3Pc.png
+/* live video */
+https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/c0dWho49-X3.png?_nc_eui2=AeFPoB0uok8kFsGA6GhM-pURVnUPE18ZZ-dWdQ8TXxln5y9JTstTMDsXcsb0X6WBJBa8HxRMG24HRiCAtJVr2OBm
+/* photo */
+https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/Ivw7nhRtXyo.png?_nc_eui2=AeEVX3I42e_26_fh_pASZOcpPL4YoeGsw5I8vhih4azDkjf4Kp2CAvXLG5MCArQ9rOHZZXffXvWyFVjuWzCinKPY
+/* smile */
+https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Y4mYLVOhTwq.png?_nc_eui2=AeFUUWcKCF8oErEpvSPmGvFsvPIN-OmHLJy88g346YcsnPCOy3foWakE-4WtUx0XEeoRH1944VVSq7YVEcBg518D
+/* aa */
+https://www.facebook.com/images/composer/SATP_Aa_square-2x.png
+/* friend */
+https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/b37mHA1PjfK.png?_nc_eui2=AeG2i2fMROKqYvA4yghJm3ieohqwRjkkxMOiGrBGOSTEw6NjjBfDURGVwKYNID310uuTzz4ouHvATkoL2QcsG4_0
+/* location */
+https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/8zlaieBcZ72.png?_nc_eui2=AeGRBCaOAmH6d68BA08S-sVL88Ps36vvyGDzw-zfq-_IYLens7H4712rpH8ZiQNwFOgxZO1oC-8_bYiixTUj3a6U
+/* gif */
+https://static.xx.fbcdn.net/rsrc.php/v3/yT/r/q7MiRkL7MLC.png?_nc_eui2=AeHOPhnwwfsXs5CaqA0swuOaJTqz5hgP3TklOrPmGA_dORh1498mkM13Mt6APiz4CjlCeCoie0qjnMZ9qhxnIuFm
+
+
+
+
+
+
+
+
+
+
+
+
+

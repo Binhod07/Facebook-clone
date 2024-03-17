@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
+* {
+  font-family: "Roboto Condensed", "sans-serif";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #f0f2f5;
+}
+:root {
+  --primary-color: #1877f2;
+}
+.fs-0 {
+  font-size: 4rem;
+}
+.fs-7 {
+  font-size: 0.8rem;
+}
+@media (min-width: 992px) {
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+}
+
+.nav_btn button:hover i {
+  color: var(--primary-color) !important;
+}
+.nav_btn-active i {
+  color: var(--primary-color) !important;
+}
+.nav_btn-active {
+  position: relative;
+}
+.nav_btn-active:before {
+  content: "";
+  position: absolute;
+  bottom: -4.5px;
+  left: 0;
+  transform: translateY(4.5px);
+  width: 100%;
+  height: 3px;
+  border-bottom: 3px solid var(--primary-color) !important;
+}
+
+/* shortcut edit button*/
+.edit-button {
+  opacity: 0;
+}
+.edit-button:hover {
+  opacity: 1;
+}
+.edit-heading:hover .edit-button {
+  opacity: 1;
+}
+/* sidenav scrollbar */
+.scrollbar:hover {
+  overflow: auto !important;
+}
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 5px;
+}
+
+/*story hover*/
+.story:hover{
+  opacity: 0.9;
+}
+.story:hover img {
+  transform: scale(1.01);
+}
+.story img {
+  position: relative;
+}
+.story .position-absolute.top-0.start-0 {
+  position: absolute;
+  padding: 4px;
+  background-color: var(--primary-color);
+  border-radius: 50%;
+}
